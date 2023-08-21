@@ -18,6 +18,7 @@ const Chatbox = () => {
       <div className="chatbox-wrap">
         <div className="chatbox-header">
           <p className="chatbox-headertext">Live Chat</p>
+          <p  >x</p>
         </div>
         <div className="msg-wrap" >
           {
